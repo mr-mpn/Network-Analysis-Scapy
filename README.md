@@ -8,7 +8,7 @@ https://github.com/secdev/scapy/blob/master/doc/notebooks/Scapy%20in%2015%20minu
 
 Scapy is a powerful Python-based interactive packet manipulation program and library. It can be used to forge or decode packets for a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more.
 
-For installation :
-!pip install --pre scapy[basic]
-!pip install pythonping
+For installation :<br>
+!pip install --pre scapy[basic]<br>
+!pip install pythonping<br>
 
